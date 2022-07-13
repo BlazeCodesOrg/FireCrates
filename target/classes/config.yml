@@ -1,0 +1,9 @@
+Crates:
+  Name:
+    Block: "shulker_box"
+    Items:
+      Grass_block:
+        Name: "Grass Block"
+        Chance: 10
+options:
+  preview_filler: "gray_stained_glass_pane"

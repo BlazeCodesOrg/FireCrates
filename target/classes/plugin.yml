@@ -1,0 +1,9 @@
+name: FireCrates
+version: '1.0-SNAPSHOT'
+main: zip.firecrates.FireCrates
+api-version: 1.17
+depend:
+  - RedLib
+commands:
+  cratereload:
+    usage: /<command>
